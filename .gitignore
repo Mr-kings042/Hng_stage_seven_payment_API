@@ -1,0 +1,9 @@
+app.log
+test.db
+__pycache__/
+.vscode/
+.env
+venv/
+__pycache__
+.pytest_cache
+venv
